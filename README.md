@@ -1,4 +1,9 @@
-## introduction  
+## Problem statement :
+As a colorado resident and a mother of freshman , I was interested in finding out the mystery of why there was a sudden 
+sharp rise in SAT scored in the state of Coorado from 2017 to 2018.
+
+
+## overview of  project  
 This project is  roughly devided in 4 sections
 1. Importing the ACT and  SAT data from 2017  and 18
 2. cleaning the data and renaming columns appropriately
@@ -6,12 +11,7 @@ This project is  roughly devided in 4 sections
 4. Exploratory analysis to find trends and intersting information
 
 
-## overview of your project
-Problem statement :
-As a colorado resident and a mother of freshman , I was interested in finding out the mystery of why there was a sudden 
-sharp rise in SAT scored in the state of Coorado from 2017 to 2018.
-
-
+## Concusion  
 I was able to detrmine the cause of it upon further research on the college board website of Colorado at 
 []![https://www.cde.state.co.us/assessment/coloradosat]
 
